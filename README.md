@@ -18,15 +18,20 @@ We can't wait for Swift's async/await, but when it comes the API won't change mu
 
 > "Standards aren't add-ons to the web. They are the web" - Apple
 
-It's time to use [Web Components](http://webcomponents.org).
+It's time to use [Web Components](https://webcomponents.org).
 Please take a look at [Stencil](https://stenciljs.com) and [Polymer](https://www.polymer-project.org).
 
 ### Backend
 
-* Nginx - load balancing, tls proxy and static files ([example](https://github.com/swift-stack/examples/tree/master/nginx-spa))<br>
-* [HTTP](https://github.com/swift-stack/http) - high performance asynchronous api ([example](https://github.com/swift-stack/examples/tree/master/http))
+* [Web](https://github.com/swift-stack/web) - MVC, Controllers, DependencyInjector ([example](https://github.com/swift-stack/examples/tree/master/web))
 
-A pure Swift solution will be available after TLS module is ready.<br/>
+* [HTTP](https://github.com/swift-stack/http) - high performance coders, server + client ([example](https://github.com/swift-stack/examples/tree/master/http))
+
+* [Node](https://github.com/swift-stack/node) - embed node.js for server-side rendering ([example](https://github.com/swift-stack/examples/tree/master/web))
+
+* Nginx - load balancing, tls proxy and static files ([example](https://github.com/swift-stack/examples/tree/master/nginx-spa))<br>
+
+A pure Swift solution will be available after TLS module is ready.<br>
 
 ### Database
 
