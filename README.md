@@ -11,8 +11,20 @@ Everything should work with our [docker image](https://github.com/swift-stack/do
 
 ### Concurrency
 
-[Fiber](https://github.com/swift-stack/fiber) - cooperative multitasting with non-blocking asynchronous io written in Swift.<br>
+* [Async](https://github.com/swift-stack/async) - simple abstraction to switch between Fiber / Tarantool
+* [Fiber](https://github.com/swift-stack/fiber) - cooperative multitasking with non-blocking asynchronous io written in Swift
+
 We can't wait for Swift's async/await, but when it comes the API won't change much.
+
+### IO
+
+* [AIO](https://github.com/swift-stack/aio) - asynchronous io with syncronous api
+* [Stream](https://github.com/swift-stack/stream) - io abstrations + basic streams, buffered stream, reader/writer
+
+### Cryptography 
+
+* [Crypto](https://github.com/swift-stack/crypto) - digest, encryption, asn.1
+* [TLS](https://github.com/swift-stack/tls) - work in progress
 
 ### Frontend
 
@@ -24,18 +36,28 @@ Please take a look at [Stencil](https://stenciljs.com) and [Polymer](https://www
 ### Backend
 
 * [Web](https://github.com/swift-stack/web) - MVC, Controllers, DependencyInjector ([example](https://github.com/swift-stack/examples/tree/master/web))
-
 * [HTTP](https://github.com/swift-stack/http) - high performance coders, server + client ([example](https://github.com/swift-stack/examples/tree/master/http))
-
 * [Node](https://github.com/swift-stack/node) - embed node.js for server-side rendering ([example](https://github.com/swift-stack/examples/tree/master/web))
-
-* Nginx - load balancing, tls proxy and static files ([example](https://github.com/swift-stack/examples/tree/master/nginx-spa))<br>
+* Nginx - load balancing, tls proxy and static files ([example](https://github.com/swift-stack/examples/tree/master/nginx-spa))
 
 A pure Swift solution will be available after TLS module is ready.<br>
 
 ### Database
 
+* [Storage](https://github.com/swift-stack/storage) - work in progress
 * [Tarantool](https://github.com/swift-stack/tarantool) with [swift stored procedures](https://github.com/swift-stack/tarantool#tarantool-module) support ([example](https://github.com/swift-stack/examples/tree/master/tarantool))<br>
+
+### Formats
+
+* [JSON](https://github.com/swift-stack/json) - streaming json encoder/decoder
+* [MessagePack](https://github.com/swift-stack/messagepack) - streaming messagepack reader/writer + encoder/decoder
+* [XML](https://github.com/swift-stack/xml) - streaming xml encoder/decoder
+* [XML-RPC](https://github.com/swift-stack/xml-rpc) - request / response codable models
+
+### Other
+
+* [Time](https://github.com/swift-stack/time) - high precision time, duration, interval
+* [Test](https://github.com/swift-stack/test) - convenience shims
 
 ### Contribute
 
