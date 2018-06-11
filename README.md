@@ -1,7 +1,7 @@
 # SwiftStack Universe
 
 ### Current progress
-You can track the state of things [here](https://github.com/swift-stack/universe/projects/1).
+You can track the state of things [here](https://github.com/orgs/swift-stack/projects/1).
 
 ### Requirements
 
