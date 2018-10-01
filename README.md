@@ -5,7 +5,8 @@ You can track the state of things [here](https://github.com/orgs/swift-stack/pro
 
 ### Requirements
 
-Everything should work with our [docker image](https://github.com/swift-stack/docker).
+At the moment all the modules should work with Xcode 10 / Swift 4.2.<br>
+You can also use our [docker image](https://github.com/swift-stack/docker).<br>
 
 ## What do we have
 
