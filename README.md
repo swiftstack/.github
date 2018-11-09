@@ -10,6 +10,11 @@ You can also use our [docker image](https://github.com/swift-stack/docker).<br>
 
 ## What do we have
 
+### Quick start
+
+* [Starters](https://github.com/swift-stack/starters) - easy way to start new project
+* [Examples](https://github.com/swift-stack/examples) - basic examples for our modules
+
 ### Concurrency
 
 * [Async](https://github.com/swift-stack/async) - simple abstraction to switch between Fiber / Tarantool
