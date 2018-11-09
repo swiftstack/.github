@@ -22,9 +22,9 @@ We can't wait for Swift's async/await, but when it comes the API won't change mu
 * [AIO](https://github.com/swift-stack/aio) - asynchronous io with syncronous api
 * [Stream](https://github.com/swift-stack/stream) - io abstrations + basic streams, buffered stream, reader/writer
 
-### Cryptography 
+### Cryptography
 
-* [Crypto](https://github.com/swift-stack/crypto) - digest, encryption, asn.1
+* [Crypto](https://github.com/swift-stack/crypto) - digest, encryption, asn.1, uuid
 * [TLS](https://github.com/swift-stack/tls) - work in progress
 
 ### Frontend
