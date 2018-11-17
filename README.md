@@ -65,6 +65,11 @@ A pure Swift solution will be available after TLS module is ready.<br>
 * [JavaScript](https://github.com/swift-stack/javascript) - embed JavaScript in your Swift application (V8, ChakraCore, JavaScriptCore)
 * [Node](https://github.com/swift-stack/node) - embed node.js for server-side rendering ([example](https://github.com/swift-stack/examples/tree/master/web))
 
+### Audio
+
+* [Audio](https://github.com/swift-stack/audio) - low-level audio abstraction
+* [Music](https://github.com/swift-stack/music) - notes, pitch detection
+
 ### Other
 
 * [Process](https://github.com/swift-stack/process) - fiber-friendly process abstraction
