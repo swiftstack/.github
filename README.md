@@ -49,7 +49,7 @@ A pure Swift solution will be available after TLS module is ready.<br>
 * [Storage](https://github.com/swift-stack/storage) - multipurpose data storage
 * [Tarantool](https://github.com/swift-stack/tarantool) with [swift stored procedures](https://github.com/swift-stack/tarantool#tarantool-module) support ([example](https://github.com/swift-stack/examples/tree/master/tarantool))<br>
 
-### Formats
+### Format
 
 * [Hex](https://github.com/swift-stack/hex) - optimized String <-> RawBuffer coding
 * [JSON](https://github.com/swift-stack/json) - streaming json encoder/decoder
@@ -60,18 +60,35 @@ A pure Swift solution will be available after TLS module is ready.<br>
 ### JavaScript
 
 * [JavaScript](https://github.com/swift-stack/javascript) - embed JavaScript in your Swift application (V8, ChakraCore, JavaScriptCore)
-* [Node](https://github.com/swift-stack/node) - embed node.js for server-side rendering ([example](https://github.com/swift-stack/examples/tree/master/web))
+* [Node](https://github.com/swift-stack/node) - embed node.js in your Swift application
+* [SSR](https://github.com/swift-stack/ssr) - server-side rendering with node.js ([example](https://github.com/swift-stack/examples/tree/master/server-side-rendering))
 
 ### Audio
 
 * [Audio](https://github.com/swift-stack/audio) - low-level audio abstraction
 * [Music](https://github.com/swift-stack/music) - notes, pitch detection
 
+### Tests
+
+* [Test](https://github.com/swift-stack/test) - convenience shims for everyday use
+* [CI](https://github.com/swift-stack/continuous-integration) - simple ci server written in Swift
+
 ### Other
 
+* [Platform](https://github.com/swift-stack/platform) - libc abstraction
+* [Codable](https://github.com/swift-stack/codable) - codable helpers
+* [Compression](https://github.com/swift-stack/compression) - gzip, deflate
+* [Reflection](https://github.com/swift-stack/reflection) - construct any value type
+* [LinkedList](https://github.com/swift-stack/linked-list) - unsafe but superfast linked list
 * [Process](https://github.com/swift-stack/process) - fiber-friendly process abstraction
 * [Time](https://github.com/swift-stack/time) - high precision time, duration, interval
-* [Test](https://github.com/swift-stack/test) - convenience shims
+* [Log](https://github.com/swift-stack/log) - general log system
+
+### Third-party
+
+* [GitHub](https://github.com/swift-stack/github) - github api client
+* [OpenSubtitles](https://github.com/swift-stack/opensubtitles) - opensubtitles api client
+* [SuperMemo](https://github.com/swift-stack/supermemo) - supermemo2 algorithm
 
 ### Contribute
 
