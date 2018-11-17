@@ -43,7 +43,6 @@ Please take a look at [Stencil](https://stenciljs.com) and [Polymer](https://www
 
 * [Web](https://github.com/swift-stack/web) - MVC, Controllers, DependencyInjector ([example](https://github.com/swift-stack/examples/tree/master/web))
 * [HTTP](https://github.com/swift-stack/http) - high performance coders, server + client ([example](https://github.com/swift-stack/examples/tree/master/http))
-* [Node](https://github.com/swift-stack/node) - embed node.js for server-side rendering ([example](https://github.com/swift-stack/examples/tree/master/web))
 * Nginx - load balancing, tls proxy and static files ([example](https://github.com/swift-stack/examples/tree/master/nginx-spa))
 
 A pure Swift solution will be available after TLS module is ready.<br>
@@ -60,6 +59,11 @@ A pure Swift solution will be available after TLS module is ready.<br>
 * [MessagePack](https://github.com/swift-stack/messagepack) - streaming messagepack reader/writer + encoder/decoder
 * [XML](https://github.com/swift-stack/xml) - streaming xml encoder/decoder
 * [XML-RPC](https://github.com/swift-stack/xml-rpc) - request / response codable models
+
+### JavaScript
+
+* [JavaScript](https://github.com/swift-stack/javascript) - embed JavaScript in your Swift application (V8, ChakraCore, JavaScriptCore)
+* [Node](https://github.com/swift-stack/node) - embed node.js for server-side rendering ([example](https://github.com/swift-stack/examples/tree/master/web))
 
 ### Other
 
