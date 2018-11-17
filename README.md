@@ -30,7 +30,7 @@ We can't wait for Swift's async/await, but when it comes the API won't change mu
 ### Cryptography
 
 * [Crypto](https://github.com/swift-stack/crypto) - digest, encryption, asn.1, uuid
-* [TLS](https://github.com/swift-stack/tls) - work in progress
+* [TLS](https://github.com/swift-stack/tls) - TLS 1.2, 1.3
 
 ### Frontend
 
@@ -49,7 +49,7 @@ A pure Swift solution will be available after TLS module is ready.<br>
 
 ### Database
 
-* [Storage](https://github.com/swift-stack/storage) - work in progress
+* [Storage](https://github.com/swift-stack/storage) - multipurpose data storage
 * [Tarantool](https://github.com/swift-stack/tarantool) with [swift stored procedures](https://github.com/swift-stack/tarantool#tarantool-module) support ([example](https://github.com/swift-stack/examples/tree/master/tarantool))<br>
 
 ### Formats
