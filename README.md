@@ -51,7 +51,7 @@ A pure Swift solution will be available after TLS module is ready.<br>
 
 ### Format
 
-* [Hex](https://github.com/swift-stack/hex) - optimized String <-> RawBuffer coding
+* [Radix](https://github.com/swift-stack/radix) - optimized Base64, Hex coding
 * [JSON](https://github.com/swift-stack/json) - streaming json encoder/decoder
 * [MessagePack](https://github.com/swift-stack/messagepack) - streaming messagepack reader/writer + encoder/decoder
 * [XML](https://github.com/swift-stack/xml) - streaming xml encoder/decoder
